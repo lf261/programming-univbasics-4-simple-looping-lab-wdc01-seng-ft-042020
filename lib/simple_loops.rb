@@ -16,3 +16,5 @@ def loop_message_n_times(string, int)
   end 
 end 
   
+def output_array(array)
+  
